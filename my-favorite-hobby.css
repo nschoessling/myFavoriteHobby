@@ -1,0 +1,36 @@
+body {
+	background-color: #E16666;
+}
+h1 {
+	color: #65E0E0;
+	text-align: center;
+	transition: font-size 2s;
+}
+h1:hover {
+	font-size: 300%;
+}
+h2 {
+	color: #65E0E0;
+	text-align: center;
+}
+h4 {
+	text-align: center;
+}
+ul {
+	display: table;
+	margin: 0 auto;
+}
+a:hover {
+	color:green;
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+}
